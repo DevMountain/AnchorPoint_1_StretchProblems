@@ -30,7 +30,7 @@ import Foundation
  
  - Add functionality to the `eat()` function which the `Dog` class inherits to print "<insert dogs name> made a mess"
  Note: This should not replace the `Animal` class's implementation of `eat()` only add onto it.
- - Create a `Poodle` class which inherits from (is a subclass of) `Dog`.  Give the `Poodle` class a `rankInStateFair` variable with NO default value.  Write an initalizer for the `Poodle` class
+ - Create a `Poodle` class which inherits from (is a subclass of) `Dog`.  Give the `Poodle` class a `rankInStateFair` variable with NO default value.  Write an initializer for the `Poodle` class
  
  `Hint: you will need to call the superclasses initializer`
  */
